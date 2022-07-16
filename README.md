@@ -1,3 +1,3 @@
 # Pie Chart in Tableau
 
-![pie chart v2](https://user-images.githubusercontent.com/74067641/178593128-92737239-aeb2-4a2e-8282-6f0cb4168dca.png)
+![Frida Kahlo](https://user-images.githubusercontent.com/74067641/179370214-5a1e9448-35fc-4a26-9dfc-23c054519f8f.jpg)
